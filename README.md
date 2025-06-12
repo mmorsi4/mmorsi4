@@ -1,6 +1,6 @@
 <div align="center">
   <!-- GIF -->
-  <img src="https://github.com/user-attachments/assets/208fc571-7ef0-4214-8995-d2c9de519ea4" alt="Animated GIF" />
+  <img src="https://i.pinimg.com/originals/b2/2a/a2/b22aa22b2f3f55b6468361158d52e2e7.gif" alt="Animated GIF" />
 
 <br><br>
   <!-- Row 1 Badges -->
